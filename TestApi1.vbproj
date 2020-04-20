@@ -8,6 +8,11 @@
     <ApplicationIcon>asp_net_core_3_1_vb_GDH_icon.ico</ApplicationIcon>
     <StartupObject>Sub Main</StartupObject>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <Authors>vb-net.com</Authors>
+    <Company>vb-net.com</Company>
+    <Product>Asp.Net.Core31.VB.MicroServices.TestApi1</Product>
+    <Description>Asp.Net Core 3.1 VB.NET MicroServices VS2019 ProjectTemplate with ImMemoryDB</Description>
+    <Copyright>MIT</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,5 +25,5 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
-
+  
 </Project>
